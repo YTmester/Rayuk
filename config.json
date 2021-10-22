@@ -1,6 +1,6 @@
 {
-	"ip":"Your IP",
-	"port": "Your Port",
-	"name": "Name Bot",
+	"ip":"cubecambodia.aternos.me",
+	"port": "55144",
+	"name": "MCBOT",
 	"auto-night-skip":"false"
 }
